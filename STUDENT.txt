@@ -12,3 +12,6 @@ Deskripsi: Aplikasi ini memungkinkan pengguna untuk berbagi cerita dan pengalama
 - Peta interaktif untuk menampilkan lokasi cerita
 - Menerapkan aksesibilitas dan View Transition API
 - Mobile friendly
+
+#Github
+https://github.com/aldiyanson/Belajar-Pengembangan-Web-Intermediate-Proyek-Kedua
